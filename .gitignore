@@ -2,6 +2,8 @@
 
 
 #ipython
+/__pycache__
+data/
 profile_default/
 ipython_config.py
 
